@@ -4,7 +4,7 @@ Simplifier la gestion utilisateurs d'une base de donnée en python.
 Se connecter à une base de données SQLite3 en vue de réaliser une gestion simplifiée des utilisateurs. 
 
 #Prérequis : 
- Python 3.7
+Python 3.7
 OS : Windows 10
 Module sqlite3 
 Module tkinter
