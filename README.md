@@ -6,7 +6,7 @@ Se connecter à une base de données SQLite3 en vue de réaliser une gestion sim
 #Prérequis : 
 
 Python 3.7;
-OS : Windows 10;
+Windows 10;
 Module sqlite3; 
 Module tkinter;
 Réaliser une connexion Python avec sqlite3 pour générer la base de données.
